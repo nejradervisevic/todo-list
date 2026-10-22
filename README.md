@@ -1,6 +1,6 @@
 # ToDos
 
-A minimal and elegant To-Do List built with HTML, CSS, and vanilla JavaScript.
+A minimal To-Do List built with HTML, CSS, and vanilla JavaScript.
 
 ## Features
 
